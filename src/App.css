@@ -1,0 +1,18 @@
+.App{
+ text-align: center;
+ height: 100vh;
+ margin-top: 5%;
+}
+.input_box{
+    color: brown;
+    background-color: bisque;
+    border-radius: 1em;
+    height: 35px;
+    padding: 4px;
+    width: 40%;
+    font-size: 16px;
+    margin-right:1.5% ;
+}
+.input_box::placeholder{
+    color:blueviolet;
+}
